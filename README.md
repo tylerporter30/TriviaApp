@@ -1,7 +1,7 @@
 # TRIVIA APP
 
 ## Project Description
-This is an app of trivia questions for users to test their knowledge of various subject matters. The user is prompted to answer questions and once they have made their selection, their answer will either turn red or green depending on if their answer was correct. 
+This is an app of trivia questions for users to test their knowledge of various subject matter. The user is prompted to answer questions and once they have made their selection, their answer will either turn red or green depending on if their answer was correct. 
 
 ## Technologies Used
 * Android SDK (7.1.2)
@@ -14,7 +14,7 @@ This is an app of trivia questions for users to test their knowledge of various 
 List of features ready and TODOs for future development
 * Allow user to pick their answer choice for each question
 * Change answer selection color based on correctness
-* Generate progress bar once user has started answering questions. 
+* Generate progress bar once user has started answering questions
 
 To-do list:
 * Create a welcome page to prompt user to begin the game
